@@ -5,6 +5,7 @@ databricks/dolly-v2-12b の学習データに使用されたdatabricks-dolly-15k
 
 This dataset can be used for any purpose, whether academic or commercial, under the terms of the `Creative Commons Attribution-ShareAlike 3.0 Unported License`.
 
+**huggingface**  
 https://huggingface.co/datasets/kunishou/databricks-dolly-15k-ja
 
 データセット内で翻訳誤り、誤字、脱字、文脈の違和感等あるレコードがあった場合はPull Requestしていただけると助かります。
