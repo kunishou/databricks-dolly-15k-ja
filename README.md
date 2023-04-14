@@ -1,1 +1,1 @@
-# -databricks-dolly-15k-ja
+# databricks-dolly-15k-ja
