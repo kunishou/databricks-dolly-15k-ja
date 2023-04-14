@@ -1,1 +1,0 @@
-{"index":"9626","instruction":"HDFSとは？","input":"","output":"HDFS (Hadoop Distributed File System) は、コモディティハードウェア上で動作する大規模データセットを扱う分散ファイルシステムです。HDFSは、1つのApache Hadoopクラスタを数百（あるいは数千）ノードに拡張するために使用されます。HDFSはApache Hadoopの主要コンポーネントの1つで、他にはMapReduceとYARNがあります。","category":"open_qa"}

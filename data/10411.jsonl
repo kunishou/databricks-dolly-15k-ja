@@ -1,1 +1,0 @@
-{"index":"10411","instruction":"dplyrでdataframeを取得し、\"super awesome \"のtastiness string列でフィルタリングし、total_sugar metricをmassで割ったpct_sugarという新しい列を作成する記述をします。","input":"","output":"ライブラリ(dplyr)\n\ndataframe %>% です。\n    filter(tastiness == \"super awesome\") %>%。\n    mutate(pct_sugar, total_sugar\/mass)","category":"creative_writing"}

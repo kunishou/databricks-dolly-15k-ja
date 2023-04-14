@@ -1,1 +1,0 @@
-{"index":"2474","instruction":"これらの技術をフロントエンド指向、バックエンド指向に分類する：React、Kafka、MySQL、JavaScript、gRPC、SQL、Prometheus、Android、Swift、Redis、JDBC","input":"","output":"React、Android、Swift、JavaScriptはフロントエンド指向、Kafka、MySQL、gRPC、SQL、Prometheus、Redis、JDBCはバックエンド指向です。","category":"classification"}

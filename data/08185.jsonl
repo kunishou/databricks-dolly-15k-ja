@@ -1,1 +1,0 @@
-{"index":"8185","instruction":"FAS、MTO、ATOは何の略か？","input":"Final Assembly Scheduleは、FASと略されることが多く、フィニッシングスケジュールと呼ばれることもある。Make to Order（MTO）またはAssemble to Order（ATO）の環境で、特定の顧客の注文に対して製品を仕上げるための最終アイテムのスケジュールである。","output":"FAS = Final Assembly Schedule（最終組立スケジュール\nMTO＝メイク・トゥ・オーダー\nATO＝アセンブル・トゥ・オーダー","category":"closed_qa"}

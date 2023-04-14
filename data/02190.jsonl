@@ -1,1 +1,0 @@
-{"index":"2190","instruction":"Active Directoryとは？","input":"","output":"Active Directoryは、MicrosoftがWindowsドメインネットワーク用に開発したディレクトリサービスです。ほとんどのWindows Serverオペレーティングシステムにプロセスやサービスのセットとして含まれています。当初、Active Directoryは集中的なドメイン管理にのみ使用されていた。しかし、Active Directoryは最終的に、ディレクトリベースのID関連サービスの広範な包括的なタイトルとなった。","category":"open_qa"}

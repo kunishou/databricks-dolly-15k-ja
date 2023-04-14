@@ -1,1 +1,0 @@
-{"index":"1153","instruction":"Azure Synapseが提供するストレージオプションはいくつありますか？","input":"","output":"Azure Synapseは、5つの異なるテクノロジーまたはロケーションにデータを保存または永続化することができます：\n1.Azure Data Lake Storeです、\n2.専用SQLプール(DW)、および\n3.コスモスDB、\n4.Azure Data Share、および\n5.Power BI（データセットキャッシュ機能付き）","category":"open_qa"}

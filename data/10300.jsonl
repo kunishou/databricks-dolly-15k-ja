@@ -1,1 +1,0 @@
-{"index":"10300","instruction":"SOAPとは？","input":"","output":"SOAP（Simple Object Access Protocolの略）は、コンピュータネットワークでWebサービスを実装する際に、構造化された情報を交換するためのメッセージングプロトコル仕様である。メッセージのフォーマットにはXML Information Setを使用し、メッセージのネゴシエーションと送信にはアプリケーション層のプロトコル、多くはHypertext Transfer Protocol（HTTP）、ただし一部のレガシーシステムではSimple Mail Transfer Protocol（SMTP）で通信します。","category":"open_qa"}

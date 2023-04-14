@@ -1,1 +1,0 @@
-{"index":"2090","instruction":"デルタ湖とは？","input":"","output":"Delta Lakeは、データレイクに信頼性をもたらすオープンソースのストレージレイヤーです。Delta Lakeは、ACIDトランザクション、スケーラブルなメタデータ処理を提供し、ストリーミングとバッチデータ処理の統一を実現します。Delta Lakeは既存のデータレイクの上で動作し、Apache Spark APIと完全な互換性を持っています。","category":"general_qa"}

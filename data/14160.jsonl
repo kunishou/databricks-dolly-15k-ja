@@ -1,1 +1,0 @@
-{"index":"14160","instruction":"以下の動物を、家畜か非家畜かで分類してください。\nドッグ、キャット、アナグマ、クーガー","input":"","output":"domestic : 犬、猫\n非家畜：アナグマ、クーガー","category":"classification"}

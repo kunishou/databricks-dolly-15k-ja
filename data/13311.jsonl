@@ -1,1 +1,0 @@
-{"index":"13311","instruction":"次のうち、関数型プログラミング言語とみなされるものとそうでないものはどれか：OCaml、Scala、Python、C、およびJavaです。","input":"","output":"OCamlやScalaは関数型言語とされ、Python CやJavaはそうではありません。","category":"classification"}

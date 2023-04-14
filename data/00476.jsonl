@@ -1,1 +1,0 @@
-{"index":"476","instruction":"これらの物体を、その形状に基づいて分類する。\n車輪、コイン、CD、切手、チェス盤","input":"","output":"ラウンド - ホイール、コイン、CD\nスクエア-スタンプ、チェス盤","category":"classification"}

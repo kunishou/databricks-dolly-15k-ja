@@ -1,1 +1,0 @@
-{"index":"8491","instruction":"1～10までの数字のうち、素数はどれで、合成数はどれでしょう？","input":"","output":"2,3,5,7は素数です。4,6,8,9,10は合成数である。","category":"classification"}

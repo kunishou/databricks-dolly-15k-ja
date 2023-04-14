@@ -1,1 +1,0 @@
-{"index":"5374","instruction":"曜日を開始時のアルファベットで分類する。\n日曜日、月曜日、火曜日、水曜日、木曜日、金曜日、土曜日","input":"","output":"S - 日曜、土曜\nM - 月曜日\nW - 水曜日\nT - 火曜日、木曜日\nF - 金曜日","category":"classification"}

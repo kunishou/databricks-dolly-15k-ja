@@ -1,1 +1,0 @@
-{"index":"8781","instruction":"Delta Lakeはどこにデータを保存しているのでしょうか？","input":"","output":"データを書き込む際に、クラウドストレージの場所を指定することができます。Delta Lakeは、その場所にParquet形式でデータを保存します。","category":"general_qa"}

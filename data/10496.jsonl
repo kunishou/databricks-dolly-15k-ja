@@ -1,1 +1,0 @@
-{"index":"10496","instruction":"SparkはScalaやPythonの改良版を必要とするのでしょうか？","input":"","output":"SparkはScalaやコンパイラのプラグインを変更する必要はありません。Python APIは標準的なCPythonの実装を使用しており、NumPyなどの既存のPython用Cライブラリを呼び出すことができます。","category":"general_qa"}

@@ -1,1 +1,0 @@
-{"index":"6134","instruction":"次のものを、固体、液体、気体のグループに分類してください。\n氷、ネオン（常温）、水、ウイスキー、椅子、二酸化炭素、ガラス","input":"","output":"solid: ice, chair, glass\n液体：水、ウイスキー\nガス：ネオン、炭酸ガス","category":"classification"}

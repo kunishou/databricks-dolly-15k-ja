@@ -1,1 +1,0 @@
-{"index":"7313","instruction":"Delta Lakeが記録を書き込む際に使用しているファイル形式は何でしょうか？csv、json、parquet、avro、orc","input":"","output":"Delta Lake は Parquet フォーマットでデータを書き込む。その上にトランザクション層があり、ACID特性、スキーマ評価、タイムトラベル、その他のいくつかの利点を強制する。","category":"classification"}

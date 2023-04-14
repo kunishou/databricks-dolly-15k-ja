@@ -1,1 +1,0 @@
-{"index":"4033","instruction":"Sparkはどのようなプログラミング言語をサポートしていますか？","input":"Apache Sparkは、Scala、Java、SQL、R、Pythonをビルトインでサポートし、.NET CLR、Juliaなどをサードパーティでサポートします。","output":"Apache Sparkは、Scala、Java、SQL、R、Pythonのサポートを内蔵しています。また、.NET CLR、Juliaなどのサードパーティ製プログラミング言語もサポートしています。","category":"summarization"}

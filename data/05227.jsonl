@@ -1,1 +1,0 @@
-{"index":"5227","instruction":"次の各々を花と木に分類する：バラ、チューリップ、オーク、スプルース、マツ、オーキッド","input":"","output":"ローズ花\nチューリップ花\nオーク（Oak）：木\nスプルース：ツリー\n松：木\nオーキッド花","category":"classification"}

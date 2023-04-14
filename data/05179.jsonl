@@ -1,1 +1,0 @@
-{"index":"5179","instruction":"これらの車をクラス別に分類してください。メルセデスAクラス、BMW M4、トヨタカムリ、フォードF150、サイバートラック","input":"","output":"メルセデスAクラス車\nBMW M4：車\nトヨタ カムリ車\nフォード F150トラック\nCyberTruckトラック","category":"classification"}

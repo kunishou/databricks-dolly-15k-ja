@@ -1,1 +1,0 @@
-{"index":"11799","instruction":"RAIDの構成にはどのようなものがあるのでしょうか？","input":"","output":"異なるRAID構成としては、RAID0、RAID1、RAID5、RAID6、RAID10、RAID50、RAID51、RAID60、RAID61、RAID70、RAID75、RAID90、RAID100、RAID200、RAID300。","category":"open_qa"}

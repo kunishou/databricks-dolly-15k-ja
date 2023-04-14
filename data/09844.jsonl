@@ -1,1 +1,0 @@
-{"index":"9844","instruction":"次のそれぞれを数字か文字に分類してください：1、a、5、b、c、d、99、88、-2、z、e、4","input":"","output":"これらは数字です：1, 5, 99, 88, -2, 4.\nこれらは文字です：a、b、c、d、z、e。","category":"classification"}

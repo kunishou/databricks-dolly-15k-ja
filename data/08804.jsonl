@@ -1,1 +1,0 @@
-{"index":"8804","instruction":"SparkはJavaScriptをサポートしていますか？","input":"","output":"SparkはJavaScriptのネイティブなビルトインサポートを持っていませんが、サードパーティライブラリを通じてSparkでJavaScriptを使用することが可能になっています。","category":"open_qa"}

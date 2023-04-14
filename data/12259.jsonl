@@ -1,1 +1,0 @@
-{"index":"12259","instruction":"なぜSparkはMapReduceより速いのか？","input":"","output":"SparkとMapReduceの主な違いは、Sparkがデータを処理してメモリ上に保持し、その後の処理を行うのに対し、MapReduceはデータをディスク上に処理する点です。","category":"open_qa"}

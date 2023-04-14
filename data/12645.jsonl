@@ -1,1 +1,0 @@
-{"index":"12645","instruction":"Delta Lakeでデータの読み書きをするにはどうすればいいのでしょうか？","input":"","output":"Delta Lakeでデータを読み書きするには、お気に入りのApache Spark APIを使用することができます。テーブルの読み込みとテーブルへの書き込みを参照してください。","category":"general_qa"}

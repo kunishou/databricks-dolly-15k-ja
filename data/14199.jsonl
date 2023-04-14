@@ -1,1 +1,0 @@
-{"index":"14199","instruction":"以下の単語を回文とするかしないか、分けてください。\nカヤック、神化、ローテーター、リペイパー、ディード、ピープ、ワオ、ヌーン、テイスト、ベイト、ノー、ビルド","input":"","output":"回文 - kayak, deified, rotator, repaper, deed, peep, wow, noon\n回文ではない - 味、餌、ない、造った","category":"classification"}

@@ -1,1 +1,0 @@
-{"index":"9066","instruction":"COCOMOとは","input":"Constructive Cost Model（COCOMO）は、Barry W. Boehmが開発した手続き型ソフトウェアコスト見積もりモデルである。モデルパラメータは、過去のプロジェクト（COCOMO 81は63プロジェクト、COCOMO IIは163プロジェクト）のデータを用いて回帰式を当てはめることで導き出されます。","output":"COCOMOは、回帰アルゴリズムで構築されたソフトウェアコスト\/工数見積りツールです。","category":"summarization"}

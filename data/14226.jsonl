@@ -1,1 +1,0 @@
-{"index":"14226","instruction":"PySparkとは？","input":"","output":"PySparkは、PythonによるApache Sparkのインターフェースです。Python APIを使用してSparkアプリケーションを記述できるだけでなく、分散環境でデータをインタラクティブに分析するためのPySparkシェルも提供されています。PySparkは、Spark SQL、DataFrame、Streaming、MLlib（機械学習）、Spark CoreといったSparkの機能のほとんどをサポートしています。","category":"open_qa"}

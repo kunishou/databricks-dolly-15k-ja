@@ -1,1 +1,0 @@
-{"index":"178","instruction":"Azure Synapseのコンピュートサービスはいくつあるのでしょうか？","input":"","output":"Azure Synapseは、5種類のコンピュートサービスを提供します：\n1.専用SQLプール（旧称：「Synapse Data Warehouse」）、\n2.サーバーレスSQLプール（＝データレイク上のクエリサービス）、\n3.Data Explorer Pools（リアルタイム＆時系列処理用）、\n4.Spark Pools（マイクロソフト社版Spark）、および\n5.パイプライン（ADFの亜種）","category":"open_qa"}

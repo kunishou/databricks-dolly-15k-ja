@@ -1,1 +1,0 @@
-{"index":"14545","instruction":"これが万能型血液型かどうか教えてください：  A+、A-、B+、B-、O+、O-、AB+、AB-。","input":"","output":"A＋＝いいえ\nA-＝いいえ\nB+ = いいえ\nB- = いいえ\nO＋＝いいえ\nO-＝はい\nAB+= No\nAB-=いいえ","category":"classification"}

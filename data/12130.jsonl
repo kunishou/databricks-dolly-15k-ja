@@ -1,1 +1,0 @@
-{"index":"12130","instruction":"次のそれぞれを食料品店またはレストランとして分類してください：Publix, Texas Roadhouse, Bonefish, Costco, Aldi, McDonalds, KFC, Whole Foods","input":"","output":"パブリックス食料品店\nテキサス・ロードハウスレストラン\nボーンフィッシュレストラン\nコストコ：食料品店\nアルディ：食料品店\nマクドナルド：レストラン\nKFCレストラン\nホールフーズ食料品店","category":"classification"}

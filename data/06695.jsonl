@@ -1,1 +1,0 @@
-{"index":"6695","instruction":"以下の企業をインドと台湾のどちらに属するか分類してください。\nHDFC銀行、インフォシス、台湾半導体製造会社、ペガトロン","input":"","output":"HDFC銀行、Infosys - インド\n台湾半導体製造会社、ペガトロン - 台湾","category":"classification"}

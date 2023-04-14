@@ -1,1 +1,0 @@
-{"index":"5033","instruction":"以下のデバイスを、製造しているブランドに基づいて分類してください。\niPhone、iPad、MacBook、Pixel watch、Galaxy phone","input":"","output":"iPhone、iPad、MacBook - Apple\nPixel watch - Google\nギャラクシーフォン - サムスン","category":"classification"}

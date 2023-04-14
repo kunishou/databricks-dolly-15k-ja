@@ -1,1 +1,0 @@
-{"index":"10718","instruction":"何が動詞で何が名詞か例を挙げるとき、これらの言葉のうちどれがどのカテゴリーに入るか説明しなさい。ゆっくり、拭く、整頓する、完全に、ジャンプする、叫ぶ、眠る、話す、絶望的に。","input":"","output":"拭く、跳ぶ、叫ぶ、寝る、話すはすべて動詞の例です。Slowly、tidily、fully、hopelesslyは副詞です。","category":"classification"}

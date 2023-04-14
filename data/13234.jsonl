@@ -1,1 +1,0 @@
-{"index":"13234","instruction":"ADLS Gen 1と2の違いは何ですか？","input":"","output":"Azure Data Lake Storage Gen1は、HDFSから派生したアクセス制御モデルを実装しており、そのアクセス制御モデルはPOSIXアクセス制御モデルから派生している。Azure Data Lake Storage Gen2は、Azure RBAC（ロールベースアクセスコントロール）とPOSIXライクアクセスコントロールリスト（ACL）の両方をサポートするアクセスコントロールモデルを実装しています。","category":"open_qa"}

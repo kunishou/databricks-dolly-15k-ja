@@ -1,1 +1,0 @@
-{"index":"4947","instruction":"正三角形、二等辺三角形、直角形、円形、球形、スカレン、長方形、正方形、台形を「三角形」または「三角形でない」と分類する。","input":"","output":"'triangle', 'triangle', 'triangle', 'not a triangle', 'triangle', 'not a triangle', 'triangle', 'not a triangle', 'not a triangle', 'not a triangle', 'not a triangle'.","category":"classification"}

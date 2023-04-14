@@ -1,1 +1,0 @@
-{"index":"10650","instruction":"次の各項目を、交通手段または自動車のブランドとして分類してください：アウディ、バス、電車、飛行機、船、フォード、アキュラ、フォルクスワーゲン。","input":"","output":"以下は交通手段です：バス、電車、飛行機、船。以下は、自動車のブランドです：Audit、Ford、Acura、Volkswagen。","category":"classification"}

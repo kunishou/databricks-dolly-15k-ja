@@ -1,1 +1,0 @@
-{"index":"1620","instruction":"次のそれぞれをライドシェアリング会社またはフードデリバリー会社に分類する：Doordash、Lyft、Wolt、Deliveroo、Bolt、Didi、Rappi","input":"","output":"ドゥオルダッシュフードデリバリー\nLyft(リフト)ライドシェア\nウォルトフードデリバリー\nDeliveroo（デリバー）：フードデリバリー\nボルトライドシェアリング\nディディライドシェアリング\nらっぴー：フードデリバリー","category":"classification"}

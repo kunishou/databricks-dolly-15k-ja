@@ -1,1 +1,0 @@
-{"index":"8200","instruction":"Goとは？","input":"","output":"Goは、Robert Griesemer、Rob Pike、Ken ThompsonがGoogleで設計した静的型付けコンパイル型の高級プログラミング言語である。構文的にはC言語に似ているが、メモリ安全性、ガベージコレクション、構造型付け、CSPスタイルの並行処理などを備えている。旧ドメイン名であるgolang.orgからGolangと呼ばれることが多いが、正式名称はGoである。","category":"open_qa"}

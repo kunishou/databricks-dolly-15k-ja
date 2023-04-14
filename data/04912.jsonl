@@ -1,1 +1,0 @@
-{"index":"4912","instruction":"それぞれの車両を車、トラック、バンに分類する：Tesla Model 3、Ford F150、Chevy Silverado、Toyota Sienna、Honda Odyssey、Toyota Tacoma、Dodge Dart","input":"","output":"テスラ モデル3：車\nフォード F150トラック\nシボレー シルバラードトラック\nトヨタ シエナバン\nホンダ オデッセイバン\nトヨタ・タコマトラック\nダッジ・ダート車","category":"classification"}

@@ -1,1 +1,0 @@
-{"index":"10447","instruction":"次の映画のうち、大人向けと子供向けのものを教えてください：ゴッドファーザー、モンスターズ・インク、スクリーム、ハリー・メット・サリー、フローズンII、E.T.","input":"","output":"ゴッドファーザー：アダルト\nモンスターズ・インク：子供\nスクリーム：大人\nWhen Harry Met Sally：大人\nフローズンII：子\nE.T.：子供","category":"classification"}

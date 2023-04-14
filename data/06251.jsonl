@@ -1,1 +1,0 @@
-{"index":"6251","instruction":"次の情報を「PII」または「PIIでない」に分類する：社会保障番号、自宅住所、年齢、従業員数、都市人口、性別、ビジネスフォン","input":"","output":"社会保障番号 - PII\n自宅住所 - PII\n年齢 - PII\n従業員数 - PIIではありません\n都市人口 - PIIではない\n性別 - PIIではありません\nビジネスフォン - PIIではありません","category":"classification"}

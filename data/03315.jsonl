@@ -1,1 +1,0 @@
-{"index":"3315","instruction":"Apache Sparkについて知っていることはありますか？","input":"Apache Sparkは、大規模データ処理用のオープンソースの統合分析エンジンです。Sparkは、暗黙のデータ並列性とフォールトトレランスを備えたクラスタをプログラミングするためのインターフェイスを提供します。カリフォルニア大学バークレー校のAMPLabで開発されたSparkのコードベースは、後にApache Software Foundationに寄贈され、以来、同財団が保守を行っている。","output":"Apache Sparkは、大規模データ処理のためのオープンソースの分析エンジンです。","category":"closed_qa"}

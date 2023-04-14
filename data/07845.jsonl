@@ -1,1 +1,0 @@
-{"index":"7845","instruction":"水生植物かマングローブかによって分類する。\nPistia stratiotes, Lysichiton americanus , Rhizophora mangle, Avicennia germinans","input":"","output":"水生 - Pistia stratiotes, Lysichiton americanus\nマングローブ - Rhizophora mangle, Avicennia germinans","category":"classification"}

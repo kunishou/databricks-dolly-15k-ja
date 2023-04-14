@@ -1,1 +1,0 @@
-{"index":"9771","instruction":"以下のものを、販売している商品に基づいて分類しなさい。\nアディダス、ナイキ、ペプシ、スプライト、ファンタ、FILA","input":"","output":"アディダス、ナイキ、FILA - シューズ\nペプシ、スプライト、ファンタ - 飲料","category":"classification"}

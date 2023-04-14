@@ -1,1 +1,0 @@
-{"index":"11631","instruction":"デルタのテーブルに直接データを流したり、デルタのテーブルからデータを流したりすることはできますか？","input":"","output":"はい、Structured Streaming を使用して、Delta テーブルに直接データを書き込んだり、Delta テーブルから読み込むことができます。Stream data into Delta tables and Stream data from Delta tables を参照してください。","category":"general_qa"}

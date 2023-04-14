@@ -1,1 +1,0 @@
-{"index":"3773","instruction":"KinesisとKafkaの違いは何ですか？","input":"","output":"KinesisとKafkaはどちらも、大量のストリーミングデータを取り込み、処理し、保存することができる分散ストリーミングプラットフォームです。両者の主な違いは、Kinesis Data StreamsがAWSが提供するフルマネージドサービスであるのに対し、Kafkaはあらゆるインフラ上で実行可能なオープンソースプロジェクトである点です。","category":"general_qa"}

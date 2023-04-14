@@ -1,1 +1,0 @@
-{"index":"8762","instruction":"どの楽器が弦楽器か木管楽器かを識別する：グラヴィコード、ヘッケルフォン","input":"","output":"ヘッケルフォンは木管、グラヴィコルドは弦楽器です。","category":"classification"}

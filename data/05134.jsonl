@@ -1,1 +1,0 @@
-{"index":"5134","instruction":"これらの管楽器のうち、木管楽器に分類されるものはどれか、また金管楽器に分類されるものはどれか：クラリネット、フレンチホルン、トロンボーン、ファゴット、スーザフォン、サクソフォン、トランペット、フルートです。","input":"","output":"トロンボーン、スーザフォン、トランペット、フレンチホルンは金管楽器です。Flute、Clarinet、Saxophone、BassoonはWoodwindです。","category":"classification"}

@@ -1,1 +1,0 @@
-{"index":"13496","instruction":"次のリテラルを文字列とintsに分類する：\"a\", \"\", \"0\", 0, 0xasdf, \"0xasdf\"","input":"","output":"多くのプログラミング言語では、文字列リテラルはダブルクォートで囲まれます。つまり、「a」、「」、「0」、「0xasdf」は文字列で、「0」と「0xasdf」はintリテラルです。","category":"classification"}

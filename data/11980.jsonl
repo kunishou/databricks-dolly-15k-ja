@@ -1,1 +1,0 @@
-{"index":"11980","instruction":"次の文字列を正と負に分類する： ':)', ':(', 'i love you', 'i do not like you', 'happy', 'sad'","input":"","output":"positive: ':)', 'アイラブユー', 'ハッピー'\nネガティブ：「：（」、「あなたのことが嫌い」、「悲しい","category":"classification"}

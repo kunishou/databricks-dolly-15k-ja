@@ -1,1 +1,0 @@
-{"index":"7978","instruction":"車輪の数で車を分類する。\nオートリキシャ、SUV、セダン、二輪車","input":"","output":"2 - 二輪車\n3 - オートリクシャー\n4 - SUV、セダン","category":"classification"}

@@ -1,1 +1,0 @@
-{"index":"1947","instruction":"AWS ECSとEKSの違いは何ですか？","input":"","output":"ECSは、スケーラブルなコンテナオーケストレーションプラットフォームで、クラスタ内のコンテナを実行、停止、管理することができます。一方、EKSは、チームがEC2コンピュートインスタンスにKubernetesを手動でインストールすることなく、AWS上でKubernetesクラスターを構築できるようにします。","category":"open_qa"}

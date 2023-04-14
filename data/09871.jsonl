@@ -1,1 +1,0 @@
-{"index":"9871","instruction":"次の食材を肉、チーズ、スプレッドに分類する：マヨネーズ、ハム、スイス、ミューンスター、ターキー、マスタード","input":"","output":"マヨネーズ - スプレッド\nハム - 肉\nswiss - cheese\nMuenster - チーズ\nターキー - 肉\nマスタード - スプレッド","category":"classification"}

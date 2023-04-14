@@ -1,1 +1,0 @@
-{"index":"10958","instruction":"次のデバイスを「電子」または「電子ではない」に分類する：iPhone、シャベル、Samsung Galaxy、電卓、はしご、紙","input":"","output":"iPhoneエレクトロニック\nショベル非電子式\nサムスン・ギャラクシーエレクトロニック\n電卓電子式\nラダー非電子式\nペーパー電子ではない","category":"classification"}

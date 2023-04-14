@@ -1,1 +1,0 @@
-{"index":"1178","instruction":"World Wide Webで主流の文字コードは何ですか？","input":"UTF-8はWorld Wide Web（およびインターネット技術）において支配的なエンコーディングであり、2023年現在、全Webページの97.9%、上位1万ページの99.0%以上、多くの言語では100.0%まで占めている[9]。事実上すべての国および言語がWeb上でUTF-8エンコーディングが95.0%以上用いられている。","output":"World Wide Webの文字エンコーディングは、UTF-8が主流です。全ウェブページの97.9%で使用されています。","category":"information_extraction"}
