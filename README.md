@@ -1,3 +1,5 @@
+<img src="image/top.png" alt="dolly">
+
 # databricks-dolly-15k-ja
 
 databricks/dolly-v2-12b の学習データに使用されたdatabricks-dolly-15k.jsonl を日本語に翻訳したデータセットになります。  
