@@ -1,0 +1,1 @@
+{"index":"8613","instruction":"AWS ECSとは？","input":"","output":"Amazon Elastic Container Service（ECS）は、Dockerコンテナをサポートし、Amazon Elastic Compute Cloud（Amazon EC2）インスタンスのマネージドクラスター上でアプリケーションを簡単に実行できる、拡張性と性能に優れたコンテナ管理サービスです。","category":"open_qa"}

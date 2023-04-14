@@ -1,0 +1,1 @@
+{"index":"3770","instruction":"所有形態が非公開か公開かで企業を分類する。\nTwitter、SpaceX、Tesla","input":"","output":"プライベートで開催された：Twitter、SpaceX\n公開：テスラ","category":"classification"}

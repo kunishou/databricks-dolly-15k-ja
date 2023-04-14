@@ -1,0 +1,1 @@
+{"index":"2592","instruction":"SparkはApache Hadoopとどのような関係があるのでしょうか？","input":"","output":"Sparkは、Hadoopデータに対応した高速かつ汎用的な処理エンジンです。YARNまたはSparkのスタンドアロンモードを通じてHadoopクラスターで実行でき、HDFS、HBase、Cassandra、Hive、および任意のHadoop InputFormatのデータを処理することができる。MapReduceに似たバッチ処理と、ストリーミング、対話型クエリー、機械学習などの新しいワークロードの両方を実行するように設計されています。","category":"general_qa"}

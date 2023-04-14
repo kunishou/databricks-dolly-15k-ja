@@ -1,0 +1,1 @@
+{"index":"194","instruction":"次の数を「素数」または「合成数」に分類する - 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16.","input":"","output":"'prime', 'prime', 'composite', 'prime', 'composite', 'prime', 'composite', 'prime', 'composite', 'prime', 'composite', 'prime', 'composite', 'prime', 'composite', 'composite'.","category":"classification"}

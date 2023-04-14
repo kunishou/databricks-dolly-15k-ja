@@ -1,0 +1,1 @@
+{"index":"11068","instruction":"このリストの中で、どのシステムがHadoopエコシステムの一部であるかを特定する：MapReduce、MySQL、Google apps、Hive、Pig","input":"","output":"MapReduce、Hive、PigはHadoopのエコシステムに属しています。Google appsとMySQLは、Hadoopのエコシステムに属さない他のプロジェクトです。","category":"classification"}

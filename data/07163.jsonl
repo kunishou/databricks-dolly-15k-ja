@@ -1,0 +1,1 @@
+{"index":"7163","instruction":"TIDBとは","input":"TiDB（\/'taɪdiːbi:\/、「Ti」はTitaniumの略）は、ハイブリッドトランザクションと分析処理（HTAP）ワークロードをサポートするオープンソースのNewSQLデータベースである[3] MySQLと互換性があり、水平スケーラビリティ、強い一貫性と高可用性を実現できる。主にPingCAP, Inc.によって開発・サポートされ、Apache 2.0の下でライセンスされています。TiDBは、GoogleのSpannerから最初の設計のインスピレーションを得た。","output":"PingCapが開発した、トランザクションと分析のハイブリッド処理に対応したデータベース","category":"closed_qa"}

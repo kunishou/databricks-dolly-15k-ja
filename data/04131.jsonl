@@ -1,0 +1,1 @@
+{"index":"4131","instruction":"これらが動物なのか、apacheのプロジェクトなのか、あるいはその両方なのか、教えてください：\nKudu, Impala, Alligator, Ant, Camel, Flink, Spark, Flume, Tomcat, Dog, Elephant。","input":"","output":"動物たちワニ、イヌ、ゾウ\nApacheのプロジェクト：Flink、Spark、Flume\n動物もApacheのプロジェクトも：Kudu、Impala、Ant、Camel、Tomcat。","category":"classification"}

@@ -1,0 +1,1 @@
+{"index":"3246","instruction":"Infrastructure as code（IAC）またはCICDツールに分類される技術は、次のうちどれでしょうか。Terraform、AWS Cloud Formation、Githubアクション、Azure Devopsパイプライン","input":"","output":"TerraformやAWS Cloud FormationはIAC（Infrastructure as code）やGithubアクション、Azure Devops pipelineはCICDツールにカテゴライズされます。","category":"classification"}

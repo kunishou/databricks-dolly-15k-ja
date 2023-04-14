@@ -1,0 +1,1 @@
+{"index":"6903","instruction":"以下の自然衛星を、惑星を基準に分類してください。\nタイタン、エウロパ、月、ガニメデ","input":"","output":"月 - 地球\nエウロパ、ガニメデ - 木星\nタイタン - 土星","category":"classification"}

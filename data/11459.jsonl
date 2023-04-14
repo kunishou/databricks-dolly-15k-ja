@@ -1,0 +1,1 @@
+{"index":"11459","instruction":"線形計画法とは何か、どのように解くのか？","input":"","output":"線形計画法とは、目的関数と要件が線形関係で表される最適化問題において、最良の目的を達成するための方法である。線形計画問題を解くアルゴリズムとしては、シンプレックス法と内点法が一般的である。\n\n詳しくは、https:\/\/en.wikipedia.org\/wiki\/Linear_programming をご覧ください。","category":"open_qa"}

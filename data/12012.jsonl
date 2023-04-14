@@ -1,0 +1,1 @@
+{"index":"12012","instruction":"以下のものを、使用する電流の種類（交流・直流）に応じて分類してください。\n電池、扇風機、電球、エアコンの充電","input":"","output":"AC：ファン、電球、エアコン\nDC：バッテリーの充電","category":"classification"}

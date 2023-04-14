@@ -1,0 +1,1 @@
+{"index":"4597","instruction":"それぞれを海、海、湖に分類する：太平洋、地中海、エリー島、大西洋、死海、黒海、ミシガン島","input":"","output":"Pacific - ocean\n地中海 - 海\nエリー - 湖\n大西洋 - 海洋\n死海 - 湖\n黒 - 海\nミシガン州 - 湖","category":"classification"}

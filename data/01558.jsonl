@@ -1,0 +1,1 @@
+{"index":"1558","instruction":"Flinkとは？","input":"","output":"Apache Flinkは、Apache Software Foundationが開発したオープンソースの統合ストリーム処理およびバッチ処理フレームワークです。Apache Flinkの中核は、JavaとScalaで書かれた分散ストリーミングデータフローエンジンです。Flinkは、任意のデータフロー・プログラムをデータ並列およびパイプラインで実行します。","category":"open_qa"}

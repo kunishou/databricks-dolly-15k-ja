@@ -1,0 +1,1 @@
+{"index":"8988","instruction":"LakehouseのSecurity & Governanceモデルに含まれ、Delta LakeのDatawarehouseに使用される製品はどれですか？Unity Catalog、SQLエンドポイント、Serverless SQL、Storageクレデンシャル。","input":"","output":"Unity CatalogとStorageクレデンシャルは、LakehouseのSecurity & Governanceモデルに含まれます。SQLエンドポイントとServerless SQLは、Delta LakeのDatawarehouseに使用されています。","category":"classification"}

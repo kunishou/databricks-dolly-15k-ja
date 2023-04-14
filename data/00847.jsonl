@@ -1,0 +1,1 @@
+{"index":"847","instruction":"ベイエリアの交通機関のうち、ACトランジットのバス路線はどれで、電車はどれでしょう：カルトレイン、BART、51B、36、51A、79、VTAライトレール。","input":"","output":"電車はカルトレイン、BART、VTAライトレール、バスは51B、36、51A、79の各路線があります。","category":"classification"}

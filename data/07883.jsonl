@@ -1,0 +1,1 @@
+{"index":"7883","instruction":"AngularとAngularJSの違いは何ですか？","input":"","output":"AngularとAngularJSの決定的な違いは、AngularJSがJavaScriptベースであるのに対し、AngularはTypeScriptベースであることです。  つまり、アプリケーションを作成するためには、AngularでTypeScriptを使用する必要があるのです。","category":"open_qa"}

@@ -1,0 +1,1 @@
+{"index":"2356","instruction":"以下のプログラミング言語をコンパイル型とインタプリタ型に分類する：シェルスクリプト、Erlang、Rust、Python、Javascript、C++、Go","input":"","output":"- コンパイル言語：erlang、Rust、C++、go\n- 通訳言語：シェルスクリプト、python、javascript","category":"classification"}

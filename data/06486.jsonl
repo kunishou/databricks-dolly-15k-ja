@@ -1,0 +1,1 @@
+{"index":"6486","instruction":"SSLとは何ですか？","input":"","output":"SSL（Secure Sockets Layer）は、サーバーとクライアント（通常はWebサーバー（ウェブサイト）とブラウザ、またはメールサーバーとメールクライアント）の間に暗号化されたリンクを確立するための標準セキュリティ技術です。","category":"open_qa"}

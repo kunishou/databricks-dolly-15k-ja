@@ -1,0 +1,1 @@
+{"index":"10548","instruction":"Apache Hiveとは？","input":"","output":"Apache Hiveは、Apache Hadoopの上に構築されたデータウェアハウスソフトウェアプロジェクトで、データの照会と分析を提供します。Hiveは、Hadoopと統合された様々なデータベースやファイルシステムに保存されたデータを照会するためのSQLライクなインターフェイスを提供します。","category":"open_qa"}

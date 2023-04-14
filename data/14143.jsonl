@@ -1,0 +1,1 @@
+{"index":"14143","instruction":"本文中に出てくるiPhone 14で利用できるさまざまなストレージ構成を抽出する。カンマ区切りで並べなさい。","input":"iPhone 14および14 Plusは、3種類の内部ストレージを用意しています：128GB、256GB、512GBです。RAMは6GBで、iPhone 13および13 miniモデルのRAMの4GBより増えています。iPhone 14および14 Plusは、前モデルと同じIP68等級の防塵・防水性能を備えています。","output":"128Gバイト、256Gバイト、512Gバイト","category":"information_extraction"}

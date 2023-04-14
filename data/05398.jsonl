@@ -1,0 +1,1 @@
+{"index":"5398","instruction":"CPUとRAMはどう違うの？","input":"","output":"CPUはデータを処理するCentralized Processing Unit、RAMはRandom Access Memoryで、プロセッサが高速にアクセスできるように一時的にデータを保存するために使用されます。  プロセッサは、メモリに格納されているデータを処理します。","category":"open_qa"}

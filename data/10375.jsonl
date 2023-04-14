@@ -1,0 +1,1 @@
+{"index":"10375","instruction":"NumPyとpandasの違いは何ですか？","input":"","output":"Pandasは、Pythonのデータ分析作業に主に使用されます。NumPyは、数学関数を簡単に適用できるため、主に数値を扱う作業に使用されます。","category":"open_qa"}

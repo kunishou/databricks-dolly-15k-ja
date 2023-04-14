@@ -1,0 +1,1 @@
+{"index":"12695","instruction":"以下のクラウドベースのサービスをそれぞれAWS、Azure、GCPのいずれかに分類する：Redshift、Big Query、Lambda、Purview、Looker。","input":"","output":"Redshift - AWS, Big Query - GCP, Lambda - AWS, Purview - Azure, Looker - GCP","category":"classification"}

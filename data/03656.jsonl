@@ -1,0 +1,1 @@
+{"index":"3656","instruction":"これらのフォントの種類を書体のスタイルに基づいてグループ化します：Times New Roman、Monaco、Garamond、Helvetica、Courier、Futura","input":"","output":"これらのフォントは、以下のように分類することができます；\nセリフフォントTimes New Roman、Garamond\nサンセリフフォント：Helvetica、Futura\n等幅フォント：モナコ、クーリエ","category":"classification"}

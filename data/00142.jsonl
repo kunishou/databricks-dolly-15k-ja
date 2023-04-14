@@ -1,0 +1,1 @@
+{"index":"142","instruction":"SQLで、カラムの条件に基づいてテーブルの行をフィルタリングするにはどうすればよいですか？","input":"","output":"SELECT <column> FROM <table> WHERE <column> == <condition>とする。","category":"general_qa"}

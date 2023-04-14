@@ -1,0 +1,1 @@
+{"index":"4664","instruction":"Transportation Research Part Dの編集者の名前を抽出し、カンマで区切る。","input":"トランスポーテーション・リサーチ・パートDTransport and Environmentは、陸・海・空の輸送システムとその環境システムへの影響に関する研究を掲載する、査読付きの国際科学雑誌です。1996年に創刊され、Elsevier社から出版されています。編集長は、Robert Noland（ラトガース大学）とJason Cao（ミネソタ大学ツインシティーズ校）です。","output":"ロバート・ノーランド、ジェイソン・カオ","category":"information_extraction"}

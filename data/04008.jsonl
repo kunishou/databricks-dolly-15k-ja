@@ -1,0 +1,1 @@
+{"index":"4008","instruction":"名前が「N」で始まるか「M」で始まるかで分類する。\nナンシー、マンディ、ミシェル、マーク、ナオミ、ニック","input":"","output":"M」から始まる名前 - Mandi, Michelle, Mark\nN」で始まる名前 - Nancy、Naomi、Nick","category":"classification"}

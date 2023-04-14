@@ -1,0 +1,1 @@
+{"index":"14930","instruction":"elasticsearchとは何ですか？","input":"","output":"Elasticsearchは、Luceneライブラリをベースとした検索エンジンです。HTTPのWebインターフェースとスキーマフリーのJSONドキュメントを備えた、分散型でマルチテナントに対応した全文検索エンジンを提供します。","category":"open_qa"}

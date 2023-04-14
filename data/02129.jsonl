@@ -1,0 +1,1 @@
+{"index":"2129","instruction":"Sparkでデータセットの大きさを確認する方法は？","input":"","output":"DataFrameやRDDのレコード数は、`count()`メソッドで調べることができます。バイト単位でサイズを確認したい場合は、SparkのUIで確認できます。","category":"general_qa"}

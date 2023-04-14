@@ -1,0 +1,1 @@
+{"index":"10364","instruction":"次の色は原色とみなされるかどうか：赤、オレンジ、黄、緑、青、藍、紫","input":"","output":"赤-一次\nオレンジ色 - プライマリーではない\n黄色 - プライマリ\ngreen - not primary\nブルー - プライマリー\n藍色-一次ではない\nバイオレット-プライマリーではない","category":"classification"}

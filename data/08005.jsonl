@@ -1,0 +1,1 @@
+{"index":"8005","instruction":"JavaのJREとは何ですか？","input":"","output":"Java Runtime Environment（JRE）とは、Javaプログラムが正しく動作するために必要なソフトウェアです。Javaは、現在の多くのウェブアプリケーションやモバイルアプリケーションを動かすコンピュータ言語です。JREは、Javaプログラムとオペレーティングシステムの間で通信を行う基礎技術です。","category":"open_qa"}

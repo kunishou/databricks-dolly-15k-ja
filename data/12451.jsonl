@@ -1,0 +1,1 @@
+{"index":"12451","instruction":"以下の企業を、原産国に基づいて分類してください。\nLG Corporation、Samsung、Apple Inc.、Tesla, Inc.","input":"","output":"LG社、サムスン - 韓国\nApple Inc.、Tesla, Inc.-米国","category":"classification"}

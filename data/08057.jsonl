@@ -1,0 +1,1 @@
+{"index":"8057","instruction":"次のブールをフィクションかノンフィクションに分類しなさい：ハリー・ポッターと魔法使いの石』『経済学は1レッスンでわかる』『帽子をかぶった猫』『時間の略歴』『アメリカの民主主義』『おやすみなさい』。","input":"","output":"Harry Potter and the Sorcerer's Stone』『The Cat in the Hat』『Goodnight Moon』はすべてフィクションです。  Economics in One Lesson』、『A Brief History of Time』、『Democracy In America』はすべてノンフィクションです。","category":"classification"}

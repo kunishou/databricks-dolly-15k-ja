@@ -1,0 +1,1 @@
+{"index":"10304","instruction":"次のカートリッジの種類を、一般的にピストルで使用されるかライフルで使用されるかで分類せよ：9mm, .40 S&W, 5.56mm NATO, .45 ACP, 7.62mm NATO, 6.5mm Creedmoor, 6.5mm Grendel, .357 Magnum","input":"","output":"9mm - ピストル\n.40 S&W - ピストル\n5.56mm NATO - ライフル\n.45 ACP - ピストル\n7.62mm NATO - ライフル\n6.5mm Creedmoor - ライフル\n6.5mmグレンデル - ライフル\n.357マグナム - ピストル","category":"classification"}

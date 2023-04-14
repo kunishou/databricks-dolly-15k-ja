@@ -1,0 +1,1 @@
+{"index":"5196","instruction":"次のうち凸関数はどれか：x^2、xの2乗、0、sin（x）、e^x、sqrt（x）、x^-0.5","input":"","output":"x^2, xの2乗, 0, e^x","category":"classification"}

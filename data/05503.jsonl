@@ -1,0 +1,1 @@
+{"index":"5503","instruction":"これらはジャングルにあるようなものでしょうか？Yes、Maybe、No Wayに分類してください：\n川\nフェンス\n樹木\nアイフォーン\nサブウェー\n動物たち\nモスキート（Mosquitos\n山火事\n山岳部\n電動スクーター\nフローラ\nクロコダイル\nトランプタワー\nファウナ","input":"","output":"はい：\n樹木\n動物たち\nモスキート（Mosquitos\nフローラ\nファウナ\n\nかもしれない：\n山火事\n山岳部\nリバーズ\nフェンス\nクロコダイル\n\nまさか、そんな\nアイフォン\nサブウェー\n電動スクーター\nトランプタワー","category":"classification"}

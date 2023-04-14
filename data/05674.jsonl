@@ -1,0 +1,1 @@
+{"index":"5674","instruction":"次の単語のどれが接続詞で、どれが前置詞か： and, between, but, for, in, of, on, or, under, yet","input":"","output":"以下は接続詞です：and、but、or、yet\n以下は前置詞です：between, for, in, of, on, under","category":"classification"}

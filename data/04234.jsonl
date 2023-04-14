@@ -1,0 +1,1 @@
+{"index":"4234","instruction":"次の支出項目を食料品、娯楽、飲食、旅行、請求書のいずれかに分類する：コストコ、ネットフリックス、ウーバー、レストラン、家賃、LYFT","input":"","output":"costcoは食料品、netflixは娯楽、uberは旅行、レストランは飲食物、家賃は請求書、lyftは旅行です。","category":"classification"}

@@ -1,0 +1,1 @@
+{"index":"10094","instruction":"Delta Lakeを使用する場合、他のSparkプラットフォームへのコードの移植は簡単にできるのでしょうか？","input":"","output":"はい。Delta Lakeを使用すると、オープンなApache Spark APIを使用することになるので、コードを他のSparkプラットフォームに簡単に移植することができます。コードを移植するには、デルタ形式をパーケット形式に置き換えてください。","category":"general_qa"}

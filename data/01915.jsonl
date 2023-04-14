@@ -1,0 +1,1 @@
+{"index":"1915","instruction":"FreeBSDはLinuxディストリビューションなのか？","input":"","output":"FreeBSDは、BSD（Berkeley Software Distribution）の開発ラインを通じて、オリジナルのUnixシステムから派生した完全なオペレーティングシステムです。Linuxは、Linuxカーネルを使用し、サードパーティによってパッケージ化されたオペレーティングシステム・ディストリビューションのファミリーです。FreeBSDのライセンスは寛容なBSDライセンスで、Linuxはコピーレフトに基づくGPLライセンスで提供されています。","category":"open_qa"}

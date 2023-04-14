@@ -1,0 +1,1 @@
+{"index":"7669","instruction":"SQLクエリとは何ですか？","input":"","output":"SQLとは、Structured Query Language（構造化問い合わせ言語）の略です。  SQLクエリとは、SQL構文を使用して、ビジネスデータに対する特定の質問に対して回答されるデータを取得するためのステートメントです。  SQLクエリは、単純なデータの返り値であることもあれば、時間経過に伴う単純または複雑な集計を含むこともある。  SQLクエリは、Oracle Database、AzureのSQL Server Database、GoogleのBigqueryのようなデータベースに対して実行されます。","category":"open_qa"}

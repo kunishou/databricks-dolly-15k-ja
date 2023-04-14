@@ -1,0 +1,1 @@
+{"index":"14874","instruction":"下記を自動車とSUVに分類する。\n\nマツダCX50、日産アルティマ、マツダCX5、トヨタRav4、KIAスポーテージ、ホンダシビック、ヒュンダイエランドラ","input":"","output":"SUV- マツダCX50、マツダCX5、トヨタRav4、KIA Sportage。自動車-日産アルティマ、ホンダシビック、ヒュンダイエラントラ。","category":"classification"}

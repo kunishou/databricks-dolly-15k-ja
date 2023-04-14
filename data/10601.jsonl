@@ -1,0 +1,1 @@
+{"index":"10601","instruction":"PCを組むのに必要な部品は？","input":"","output":"PCを作るには、最低でも以下の部品が必要です：\n\n* マザーボード\n* プロセッサー(CPU)\n* ストレージ（ハードディスクまたはSSD）\n* メモリ(RAM)\n* ケース\n* CPUファン\/冷却ユニット\n* 電源\n* GPU (オプション)","category":"open_qa"}

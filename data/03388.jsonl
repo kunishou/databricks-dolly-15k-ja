@@ -1,0 +1,1 @@
+{"index":"3388","instruction":"Hadoopの主要なコンポーネントは何ですか？","input":"","output":"Hadoopの主要なコンポーネントは3つあります：\n- Hadoop HDFS (Hadoop Distributed File System) - ストレージユニット。\n- Hadoop MapReduce（ハドゥープ・マップレデュース） - 処理ユニット。\n- Hadoop YARN（Yet Another Resource Negotiator）：リソース管理ユニット。","category":"open_qa"}

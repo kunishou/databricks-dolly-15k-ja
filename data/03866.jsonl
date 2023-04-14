@@ -1,0 +1,1 @@
+{"index":"3866","instruction":"カフカの生みの親である作家の名前を、掲載されている文章から探しなさい。コンマで区切ってください。","input":"KafkaはもともとLinkedInで開発され、その後2011年初頭にオープンソース化されました。Jay Kreps、Neha Narkhede、Jun RaoがKafkaの共同制作に協力した。2012年10月23日にApache Incubatorから卒業した[5]。Jay Krepsがソフトウェアの名前を作家のFranz Kafkaにした理由は「書くために最適化したシステム」で、彼はカフカの仕事が好きだった。[6].","output":"ジェイ・クレプス、ネーハ・ナルケデ、ジュン・ラオ","category":"information_extraction"}

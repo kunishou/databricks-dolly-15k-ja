@@ -1,0 +1,1 @@
+{"index":"14213","instruction":"をコンピュータソフトウェアとハードウェアのどちらかに分類してください：RAM、SSD、キーボード、マウス、トラックパッド、Python、R、Scala、Google、Gmail、Figma、カメラ、画面","input":"","output":"コンピュータソフトウェア：python、R、Scala、Google、Gmail、Figma\nコンピューターのハードウェアRAM、SSD、キーボード、マウス、トラックパッド、カメラ、スクリーン","category":"classification"}

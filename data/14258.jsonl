@@ -1,0 +1,1 @@
+{"index":"14258","instruction":"gRPCとは？","input":"","output":"gRPC（gRPC Remote Procedure Calls）は、クロスプラットフォームなオープンソースの高性能リモートプロシージャコール（RPC）フレームワークです。gRPCは当初、Googleが2001年頃から自社のデータセンター内や全体で動作する多数のマイクロサービスを接続するためにStubbyという単一の汎用RPCインフラを使用して作成しました。","category":"open_qa"}

@@ -1,0 +1,1 @@
+{"index":"6658","instruction":"次の色を原色か原色でないかに分類する：赤、青、紫、白、黒、緑、黄、橙","input":"","output":"原色は、赤、青、緑です。非原色は、紫、白、黒、黄、橙です。","category":"classification"}

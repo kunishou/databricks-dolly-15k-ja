@@ -1,0 +1,1 @@
+{"index":"6894","instruction":"Delta Lakeはマルチテーブルのトランザクションをサポートしていますか？","input":"","output":"Delta Lake は、複数テーブルのトランザクションと外部キーをサポートしません。Delta Lake は、テーブルレベルでのトランザクションをサポートしています。","category":"general_qa"}

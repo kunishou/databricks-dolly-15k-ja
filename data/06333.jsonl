@@ -1,0 +1,1 @@
+{"index":"6333","instruction":"Excelで2つのセルを追加する方法は？","input":"","output":"セル1を1番目のセル、セル2を2番目のセルとして、=cell1 + cell2 の演算を使用することができます。","category":"general_qa"}

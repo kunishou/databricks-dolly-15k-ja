@@ -1,0 +1,1 @@
+{"index":"10484","instruction":"F-150 Lightningに設定されているトリムレベルを列挙してください。  コンマで区切ってください。","input":"2022年モデルでは、F-150 Lightningは4つのトリムレベルが用意されている：Pro、XLT、Lariat、Platinumである[24]。Proトリムは小容量バッテリーのみ、Platinumは大容量バッテリーのみを提供するが、その他のトリムは小容量バッテリーを標準装備するが、オプションとして大容量バッテリーも提供する。","output":"F-150ライトニングには4つのトリムレベルが用意されています：Pro、XLT、Lariat、Platinumの4種類です。","category":"information_extraction"}

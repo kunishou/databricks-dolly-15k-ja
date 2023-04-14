@@ -1,0 +1,1 @@
+{"index":"422","instruction":"どれが金属で、どれが非金属か：銅、水素、銀、炭素、金、窒素","input":"","output":"メタル銅、銀、金\n金属以外のもの水素、炭素、窒素","category":"classification"}

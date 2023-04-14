@@ -1,0 +1,1 @@
+{"index":"8676","instruction":"ボードゲームショップで、体力が必要なゲームか経済戦略が必要なゲームを買いたいと思っています。用意されているゲームは以下の通りです：Pictionary, Monopoly, Trivial Pursuit, Jenga, Operation, Catan, Diplomacy, Hungry Hippos.候補を挙げてください。","input":"","output":"体力が必要なゲームと経済的な戦略が必要なゲームを候補として挙げてください：\n物理的なスキルが必要なもの：ジェンガ、オペレーション、ハングリーヒッポス\n経済戦略カタン、ディプロマシー、モノポリー","category":"classification"}

@@ -1,0 +1,1 @@
+{"index":"7858","instruction":"以下の自動車ブランドを生産している会社を決定する：シボレー、GMC、ダッジ、レクサス、ビュイック、キャデラック、ポンティアック、アキュラ、リンカーン、そしてジープ。","input":"","output":"Chevrolet、GMC、Cadillac、Buickは、すべてGeneral Motorsのブランドです。PontiacもGeneral Motorsのブランドでしたが、2010年に段階的に廃止されました。  Lincoln、Jeep、DodgeはStellantisブランドです。LexusとAcuraは、それぞれトヨタとホンダの高級ブランドです。","category":"classification"}

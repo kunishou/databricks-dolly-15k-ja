@@ -1,0 +1,1 @@
+{"index":"14439","instruction":"MapReduceとは？","input":"","output":"MapReduceは、クラスタ上でビッグデータセットを並列分散アルゴリズムで処理・生成するためのプログラミングモデルおよびその実装です。MapReduceプログラムは、フィルタリングやソートを行うmapプロシージャと、要約処理を行うreduceメソッドで構成されています。","category":"open_qa"}

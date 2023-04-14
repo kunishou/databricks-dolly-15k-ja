@@ -1,0 +1,1 @@
+{"index":"642","instruction":"データエンジニアリングと機械学習のどちらかを構成する要素は、次のうちどれでしょうか？デルタライブテーブル（DLT）、MLFlow、オートローダー、AutoML","input":"","output":"Delta Live Table（DLT）はデータ工学に、MLFlowは機械学習に、Autoloaderはデータ工学に、AutoMLは機械学習に使用されます。","category":"classification"}

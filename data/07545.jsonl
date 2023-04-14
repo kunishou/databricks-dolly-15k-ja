@@ -1,0 +1,1 @@
+{"index":"7545","instruction":"SparkでKafkaからデータを読み込む際、どのようにすればactly-once deliveryを確保できますか？","input":"","output":"きっちり1回配信するためには、Kafkaのidempotent producer設定とSpark Structured Streamingのチェックポイント機構を利用することができます。これはシンクがデルタテーブルの場合は実現可能ですが、シンクが別のKafkaトピックの場合は実現できません。","category":"general_qa"}

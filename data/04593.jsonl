@@ -1,0 +1,1 @@
+{"index":"4593","instruction":"次の音の組み合わせに関連する音楽の音程（例：完全5度、長3度）を特定できる：\nC-G\nジービー\nE-A\nシーエフシャープ\nEflat-C\nディーシーシャープ\nビーエフ","input":"","output":"C-G : パーフェクトファイブ\nG-B：長3\nE-A: パーフェクト4th\nC-Fsharp: オーギュメンテッドフォース\nEflat-C: メジャー6\nD-Csharp：メジャーセブン\nB-F：ディミニッシュファイブ","category":"classification"}

@@ -1,0 +1,1 @@
+{"index":"405","instruction":"C、Java、Node.js、Python、HTML、BigData、Sparkのうち、プログラミング言語はどれでしょう。","input":"","output":"さて、C言語、Java、Pythonはプログラミング言語です。\nHTMLは言語ではありますが、マークアップ言語であり、プログラミング言語ではありません。Node.jsは、実際にはJavascriptの上に構築されたフレームワークなので、言語に分類することはできません。\nBigDataは、大量のデータの保存、処理、利用に対して使われる広義の用語です。Sparkは、分散型データ処理フレームワークの代表的なものの1つです。Sparkは複数の言語から使用することができます。","category":"classification"}

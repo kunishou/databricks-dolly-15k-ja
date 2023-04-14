@@ -1,0 +1,1 @@
+{"index":"13401","instruction":"Delta LakeはSpark Streaming DStream APIを使った書き込みや読み出しに対応していますか？","input":"","output":"DeltaはDStream APIをサポートしていません。テーブルストリーミングによる読み書きを推奨します。","category":"general_qa"}

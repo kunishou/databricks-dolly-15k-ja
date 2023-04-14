@@ -1,0 +1,1 @@
+{"index":"5605","instruction":"GCPにおけるs3相当とは？","input":"","output":"AWSをご存知の方なら、Google StorageはAWS Simple Storage Service（S3）のGCP版であり、S3バケットは2つのクラウド間でGoogle Storageバケットと同等となるのでしょう。","category":"open_qa"}

@@ -1,0 +1,1 @@
+{"index":"9933","instruction":"データベースやストリーミングソリューションは次のうちどれでしょうか？オラクル、Kinesis、イベントハブ、SQL Server","input":"","output":"Oracle- データベース, Kinesis- ストリーミングソリューション, Event hub- ストリーミングソリューション, SQL Server- データベース","category":"classification"}

@@ -1,0 +1,1 @@
+{"index":"9496","instruction":"犬、テーブル、猫、木、ペン、本、それぞれを生物と非生物に分類する。","input":"","output":"living: 犬、猫、木\n非生物：テーブル、ペン、本","category":"classification"}

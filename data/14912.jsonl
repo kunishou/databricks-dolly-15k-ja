@@ -1,0 +1,1 @@
+{"index":"14912","instruction":"これらの単語のうち、どれが名詞で、どれが形容詞か。冷蔵庫、拭く、ベッド、椅子、ジャンプ、叫ぶ、寝る、果物、話す。","input":"","output":"冷蔵庫、ベッド、椅子、果物は名詞である単語です。Wipe、Jump、Yell、Sleep、Talkは形容詞の単語です。","category":"classification"}

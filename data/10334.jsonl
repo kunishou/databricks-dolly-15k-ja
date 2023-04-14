@@ -1,0 +1,1 @@
+{"index":"10334","instruction":"次の数字を奇数か偶数に分類してください。\n1, 4, 5, 333, 67, 88, 100","input":"","output":"奇数 - 1、5、333、67\n偶数 - 4、88、100","category":"classification"}

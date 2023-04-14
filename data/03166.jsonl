@@ -1,0 +1,1 @@
+{"index":"3166","instruction":"脆弱性の深刻度をどのように判断するか。","input":"","output":"脆弱性の深刻度は、一般的にCVSS（Common Vulnerability Scoring System）を用いて判断されます。CVSSは、脆弱性を0～10で採点し、10が最も重要な深刻度スコアとなります。","category":"open_qa"}

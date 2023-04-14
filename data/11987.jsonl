@@ -1,0 +1,1 @@
+{"index":"11987","instruction":"各車をフォードかテスラに分類してください：Model Y、F150、Focus、Fiesta、Model X","input":"","output":"モデルY：テスラ\nF150:フォード\nフォーカスフォード\nフィエスタフォード\nモデルX：テスラ","category":"classification"}
