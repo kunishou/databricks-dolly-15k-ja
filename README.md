@@ -11,7 +11,9 @@ This dataset can be used for any purpose, whether academic or commercial, under 
 **huggingface**  
 https://huggingface.co/datasets/kunishou/databricks-dolly-15k-ja  
 
-Dollyデータセットとこれを日本語に翻訳したときのデータを活用して作成した69Kの翻訳タスクデータセットも公開しています。databricks-dolly-15k-ja にマージしてファインチューニングを行うことで翻訳タスクもできるLLMを作ることができると思います。なお、こちらのデータセットは databricks-dolly-15k-ja の更新のタイミングで再作成を実施し、huggingface上のデータセットも最新のものに差し替えます。
+---
 
 **databricks-dolly-69k-ja-en-translation**    
-https://huggingface.co/datasets/kunishou/databricks-dolly-69k-ja-en-translation
+https://huggingface.co/datasets/kunishou/databricks-dolly-69k-ja-en-translation  
+
+Dollyデータセットとこれを日本語に翻訳したときのデータを活用して作成した69Kの翻訳タスクデータセットも公開しています。databricks-dolly-15k-ja にマージしてファインチューニングを行うことで翻訳タスクもできるLLMを作ることができると思います。なお、こちらのデータセットは databricks-dolly-15k-ja の更新のタイミングで再作成を実施し、huggingface上のデータセットも最新のものに差し替えます。
